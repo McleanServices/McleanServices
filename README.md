@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Kilian
+# 👋 Hi there! I'm Tyrece
 
 I'm a passionate development student at [Your University Name] with a keen interest in web and mobile app development, especially using the MERN stack and React Native. I love exploring new technologies and working on projects that push the boundaries of my skills.
 
